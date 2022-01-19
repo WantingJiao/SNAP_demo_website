@@ -1,37 +1,46 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Wanting Jiao
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Ferrier Research Institute
+  url: "https://people.wgtn.ac.nz/wanting.jiao"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Dr Wanting Jiao’s area of expertise is computational biochemistry and biophysics. She studies protein-ligand interactions, protein function and regulation using computational techniques and relating results from computational calculations to experimental results. She says this combination of techniques offers a powerful approach towards investigating behaviours of protein systems.
+
+“I had a taste of the computational field when I was a third-year chemistry undergraduate and immediately fell in love with it.”
+
+“I’m drawn to the field of molecular modelling because the level of details it can offer. The molecular details we get from simulations can offer insights and explanations to experimental observations, properties can be predicted based on simulation results, and these can be used to guide future experiments.”
+
+Wanting’s current research uses molecular modelling techniques including molecular dynamics simulations, QM/MM calculations, ligand docking, structure-based virtual screening, homology modelling and bioinformatics.
+
+Wanting received her PhD in Chemistry from the University of Canterbury.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Enzyme Catalysis
+- Allosteric regulation
+- Proteins
+- Molecular dynamics simulations
+- Computational biochemistry
+- QM/MM calculations
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Chemistry
+    institution: University of Canterbury
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BSc(Hon) major in Chemistry
+    institution: University of Canterbury
     year: 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
